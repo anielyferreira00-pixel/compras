@@ -1,8 +1,9 @@
 {
   "name": "Lista de Compras",
   "short_name": "Compras",
-  "start_url": "./index.html",
+  "start_url": "/compras/index.html",
+  "scope": "/compras/",
   "display": "standalone",
-  "background_color": "#f4f6f8",
-  "theme_color": "#2e7d32"
+  "background_color": "#fdff00",
+  "theme_color": "#2a7d32"
 }
