@@ -1,6 +1,7 @@
 {
   "name": "Lista de Compras",
   "short_name": "Compras",
+  "id": "/compras/",
   "start_url": "/compras/index.html",
   "scope": "/compras/",
   "display": "standalone",
